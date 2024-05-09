@@ -17,7 +17,7 @@ Olá pessoal, <a href="https://github.com/venelouis/"> @venelouis</a> aqui! Insp
     1. [x] i. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
     2. [x] ii. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
     3. [x] iii. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-3. [em breve...] **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
+3. [x] 3. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
 
 
 <h1> Desafio de Projeto DIO em vídeo 🎥</h1>

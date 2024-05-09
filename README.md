@@ -36,7 +36,7 @@ Usei a plataforma da ["ARTFLOW"](app.artflow.ai) para criar um avatar virtual e 
 
 ### 🚀 Resultados
 O vídeo é mostra um avatar criado por IA falando sobre este projeto e pedindo para seguir '@venelouis' em todas as mídias como o [GitHub](https://github.com/venelouis) e resultado pode ser visualizado no link abaixo:
-https://app.artflow.ai/gallery/story/video/9474f29ad7b54fc8aa7726e12940b75a
+- https://app.artflow.ai/gallery/story/video/9474f29ad7b54fc8aa7726e12940b75a
 #
 
 ### 💭 Reflexão

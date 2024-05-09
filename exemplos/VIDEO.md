@@ -4,10 +4,10 @@
 Estes vídeos criam um avatar com IA falando sobre ser fruto de um projeto da DIO.
 
 ## 🤖 Tecnologias Utilizadas
-- IA Generativa **[HEYGEN](https://heygen.com)** para sintetização de voz e geração de avatar virtual;
+- IA Generativa **[ARTFLOW](https://app.arflow.aI)** para sintetização de voz e geração de avatar virtual;
 
 ## 🧐 Processo de Criação
-Usei o "HEYGEN" para criar um avatar virtual e voz sintetizada.
+Usei o "ARTFLOW" para criar um avatar virtual e voz sintetizada.
 
 ## 🚀 Resultados
 O vídeo é uma amostra sobre como podemos criar avatares para dizerem o que quisermos em um vídeo.

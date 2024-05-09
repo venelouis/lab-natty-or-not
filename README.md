@@ -8,7 +8,7 @@ Olá pessoal, <a href="https://github.com/venelouis/"> @venelouis</a> aqui! Insp
 
 ## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
 
-### Objetivos
+### Objetivos (feitos) [x] (v) checked!
 
 1. [x] (feito) 1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
 

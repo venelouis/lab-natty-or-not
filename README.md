@@ -23,24 +23,24 @@ Olá pessoal, <a href="https://github.com/venelouis/"> @venelouis</a> aqui! Insp
 <h1> Desafio de Projeto DIO em vídeo 🎥</h1>
 
 ### 📒 Descrição
-Este vídeo cria um avatar com IA falando sobre ser fruto de um desafio de projeto da DIO.
+Este vídeo é feito com um avatar produzido com IA falando sobre ser fruto de um desafio de projeto da DIO.
 #
 
 ### 🤖 Tecnologias Utilizadas
-- IA Generativa **[ARTFLOW](https://app.arflow.aI)** para sintetização de voz e geração de avatar virtual;
+- IA Generativa **[ARTFLOW](https://app.arflow.ai)** para sintetização de voz e geração de avatar virtual;
 #
 
 ### 🧐 Processo de Criação
-Usei o "ARTFLOW" para criar um avatar virtual e voz sintetizada.
+Usei a plataforma da ["ARTFLOW"](app.artflow.ai) para criar um avatar virtual e voz sintetizada.
 #
 
 ### 🚀 Resultados
-O vídeo é mostra um avatar criado por ia falando sobre este projeto:
+O vídeo é mostra um avatar criado por IA falando sobre este projeto e pedindo para seguir '@venelouis' em todas as mídias como o [GitHub](https://github.com/venelouis) e resultado pode ser visualizado no link abaixo:
 https://app.artflow.ai/gallery/story/video/9474f29ad7b54fc8aa7726e12940b75a
 #
 
 ### 💭 Reflexão
-Este projeto é uma experiência incrível para demonstrações áudio-visuais.
+Este projeto é uma experiência incrível para demonstrações do poder da IA no áudio-visual.
 
 
 <!--

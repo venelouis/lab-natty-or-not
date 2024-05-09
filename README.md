@@ -18,15 +18,13 @@ Olá pessoal, <a href="https://github.com/venelouis/"> @venelouis</a> aqui! Insp
     2. [x] ii. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
     3. [x] iii. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
 3. [em breve...] **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-</form>
 
 
-<h4> Título do Projeto Extremamente Aesthetic: Desafio de Projeto DIO em vídeo 🎥</h4>
+<h1> Desafio de Projeto DIO em vídeo 🎥</h1>
 
 ### 📒 Descrição
-Estes vídeos criam um avatar com IA falando sobre ser fruto de um projeto da DIO.
-
-
+Este vídeo cria um avatar com IA falando sobre ser fruto de um desafio de projeto da DIO.
+#
 
 ### 🤖 Tecnologias Utilizadas
 - IA Generativa **[ARTFLOW](https://app.arflow.aI)** para sintetização de voz e geração de avatar virtual;
@@ -34,10 +32,12 @@ Estes vídeos criam um avatar com IA falando sobre ser fruto de um projeto da DI
 
 ### 🧐 Processo de Criação
 Usei o "ARTFLOW" para criar um avatar virtual e voz sintetizada.
+#
 
 ### 🚀 Resultados
 O vídeo é mostra um avatar criado por ia falando sobre este projeto:
 https://app.artflow.ai/gallery/story/video/9474f29ad7b54fc8aa7726e12940b75a
+#
 
 ### 💭 Reflexão
 Este projeto é uma experiência incrível para demonstrações áudio-visuais.

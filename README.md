@@ -21,7 +21,7 @@ Olá pessoal, <a href="https://github.com/venelouis/"> @venelouis</a> aqui! Insp
 </form>
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic: Vídeo: Desafio de Projeto DIO 🎥
+# Título do Projeto Extremamente Aesthetic: Desafio de Projeto DIO em vídeo 🎥
 
 ## 📒 Descrição
 Estes vídeos criam um avatar com IA falando sobre ser fruto de um projeto da DIO.

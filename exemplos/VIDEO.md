@@ -10,8 +10,8 @@ Estes vídeos criam um avatar com IA falando sobre ser fruto de um projeto da DI
 Usei o "ARTFLOW" para criar um avatar virtual e voz sintetizada.
 
 ## 🚀 Resultados
-O vídeo é uma amostra sobre como podemos criar avatares para dizerem o que quisermos em um vídeo.
-[LINK PARA O VÍDEO AQUI](https://app.heygen.com/share/29588db02af942618f751ee84c6e1e31)
+O vídeo é mostra um avatar criado por ia falando sobre este projeto.
+[https://app.artflow.ai/gallery/story/video/9474f29ad7b54fc8aa7726e12940b75a](https://app.artflow.ai/gallery/story/video/9474f29ad7b54fc8aa7726e12940b75a)
 
 ## 💭 Reflexão
 Este projeto é uma experiência incrível para demonstrações áudio-visuais.

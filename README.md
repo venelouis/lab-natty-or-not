@@ -20,8 +20,8 @@ Olá pessoal, <a href="https://github.com/venelouis/"> @venelouis</a> aqui! Insp
 3. [em breve...] **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
 </form>
 
-```markdown
-# Título do Projeto Extremamente Aesthetic: Desafio de Projeto DIO em vídeo 🎥
+
+<h4> Título do Projeto Extremamente Aesthetic: Desafio de Projeto DIO em vídeo 🎥</h4>
 
 ## 📒 Descrição
 Estes vídeos criam um avatar com IA falando sobre ser fruto de um projeto da DIO.
@@ -38,8 +38,9 @@ https://app.artflow.ai/gallery/story/video/9474f29ad7b54fc8aa7726e12940b75a
 
 ## 💭 Reflexão
 Este projeto é uma experiência incrível para demonstrações áudio-visuais.
-```
 
+
+<!--
 ### Exemplos e Insigths
 
 - [E-BOOK](/exemplos/E-BOOK.md)

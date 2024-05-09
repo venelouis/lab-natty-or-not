@@ -5,6 +5,7 @@ Estes vídeos criam um avatar com IA falando sobre ser fruto de um projeto da DI
 
 ## 🤖 Tecnologias Utilizadas
 - IA Generativa **[D-ID](https://www.d-id.com)** para sintetização de voz e geração de avatar virtual;
+- IA Generativa **[HEYGEN](https://heygen.com)** para sintetização de voz e geração de avatar virtual;
 
 ## 🧐 Processo de Criação
 Usei o "D-ID" para criar um avatar virtual e voz sintetizada.
